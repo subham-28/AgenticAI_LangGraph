@@ -2,18 +2,13 @@ langgraph
 langchain
 langchain-core
 langchain-community
-langgraph-checkpoint-sqlite 
-langchain_openrouter
-
-sqlite3
+langgraph-checkpoint-sqlite
 
 fastapi
 uvicorn
 
 pydantic
-
 python-dotenv
-
 typing-extensions
 
 tqdm
@@ -21,3 +16,5 @@ numpy
 pandas
 
 streamlit
+
+openai
