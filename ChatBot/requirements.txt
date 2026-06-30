@@ -3,6 +3,7 @@ langchain
 langchain-core
 langchain-community
 langgraph-checkpoint-sqlite 
+langchain_openrouter
 
 sqlite3
 
@@ -18,3 +19,5 @@ typing-extensions
 tqdm
 numpy
 pandas
+
+streamlit
