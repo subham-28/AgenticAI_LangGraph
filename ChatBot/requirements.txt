@@ -3,6 +3,7 @@ langchain
 langchain-core
 langchain-community
 langgraph-checkpoint-sqlite
+langchain_openrouter
 
 fastapi
 uvicorn
